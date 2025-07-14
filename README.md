@@ -2,6 +2,9 @@
 
 An interactive React-based product customization app. Users can select product sizes, colors, and view real-time updates for each item (e.g., React and Kodilla t-shirts).
 
+🔗 [Live Demo](https://product-personalizer-ochre.vercel.app/)
+
+
 ## 🚀 Features
 - React component-based UI
 - Product cards with image, size, and color selection
